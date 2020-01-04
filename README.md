@@ -1,4 +1,4 @@
-# Bombing-Chap
+# Bombing Chap
 This is the C# game project created using SwinGame in the university!<br/>
 
 I will add more feature to this game if I have free time! <br/>
