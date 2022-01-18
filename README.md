@@ -1,7 +1,13 @@
 # Bombing Chap
-This is the C# game project created using SwinGame in the university!<br/>
+This is a simple multiplayer bombing game developed using SwinGame in C#.
 
-I will add more feature to this game if I have free time! <br/>
-You also can give me idea on what improvement can be made to this game!
+## How to play?
+Use the bomb to destroy the wall and you might get some powerups.<br/>
+Use bomb to kill the another player.<br/>
+That's it? Easy right? Have fun.<br/><br/>
+
+This is a project I developed during my time in the university so it is fairly simple. Please note that SwinGame is now deprecated.
+
+
 <br/><br/>
-If there is any copyright issue with the resources used in the game, please contact me at "saikitanproduction@gmail.com". I will remove it immediately after verify!
+If there is any copyright issue with the resources used in the game, please contact me and I will remove it immediately after verify!
